@@ -69,14 +69,9 @@ Each component includes:
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/preethi-thakur/prodesk-IT-mission--12>
 ```
 
-Navigate to the project
-
-```bash
-cd movie-explorer
-```
 
 Install dependencies
 
